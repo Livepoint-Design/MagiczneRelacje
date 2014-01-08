@@ -1,0 +1,24 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3876178084"/>
+    <file name="index.css" crc="66814709" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="istock_000016938494xlarge.jpg" crc="3863815122" ref="index"/>
+    <file name="mr-logo.png" crc="288677301" ref="index"/>
+    <file name="u102-4.png" crc="3932200561" ref="index"/>
+    <file name="u104-5.png" crc="360229666" ref="index"/>
+    <file name="u105-5.png" crc="92341168" ref="index"/>
+    <file name="gplus.png" crc="9068579" ref="index"/>
+    <file name="face.png" crc="172364703" ref="index"/>
+    <file name="tumb.png" crc="320928258" ref="index"/>
+    <file name="twitt.png" crc="4236457345" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4044077730" mt="1389185428184" redirect="true"/>
+</manifest>

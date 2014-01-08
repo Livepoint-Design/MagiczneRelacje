@@ -1,0 +1,125 @@
+.html
+{
+	background: #DE3535 url("../images/istock_000016938494xlarge.jpg") no-repeat left top scroll;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 460px;
+	min-height: 332px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 101px 480px 67px 20px;
+}
+
+#u90
+{
+	z-index: 2;
+	width: 2062px;
+	height: 2539px;
+	border-color: #000000;
+	background-color: #DE3535;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	position: fixed;
+	top: -284px;
+	left: 50%;
+	margin-left: -2062px;
+}
+
+#u156
+{
+	z-index: 17;
+	width: 400px;
+	height: 102px;
+	border-color: #000000;
+	margin-left: 30px;
+	position: relative;
+	background: transparent url("../images/mr-logo.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u102-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u104-5
+{
+	z-index: 7;
+	display: block;
+	vertical-align: top;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u105-5
+{
+	z-index: 12;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u183
+{
+	z-index: 18;
+	width: 161px;
+	margin-left: 149px;
+	margin-top: 37px;
+	position: relative;
+}
+
+#u178
+{
+	z-index: 25;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u173
+{
+	z-index: 23;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	left: 43px;
+}
+
+#u168
+{
+	z-index: 21;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	left: 85px;
+}
+
+#u163
+{
+	z-index: 19;
+	width: 33px;
+	position: relative;
+	margin-right: -10000px;
+	left: 128px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
