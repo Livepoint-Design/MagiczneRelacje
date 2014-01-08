@@ -4,6 +4,11 @@
 	background-size: cover !important;
 }
 
+#logo {
+    width: 50%;
+    margin: 0 auto;
+}
+
 #page
 {
 	z-index: 1;
@@ -37,7 +42,6 @@ left: -50%;
 	border-color: #000000;
 	margin-left: 30px;
 	position: relative;
-	background: transparent url("../images/mr-logo.png") no-repeat center center;
 	background-size: contain !important;
 }
 
