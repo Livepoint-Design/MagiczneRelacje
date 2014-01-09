@@ -1,4 +1,0 @@
-MagiczneRelacje
-===============
-
-Magiczne Relacje
