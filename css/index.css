@@ -4,19 +4,33 @@
 	background-size: cover !important;
 }
 
-#logo {
-    width: 50%;
-    margin: 0 auto;
-}
-
 #page
 {
 	z-index: 1;
-	width: 460px;
+	width: 100%;
 	min-height: 332px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 101px 480px 67px 20px;
+}
+
+#page #u156 {
+    margin: 5% auto;
+    width: 50%;
+}
+
+#page #u102-4 {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#page #u104-5 {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#page #u105-5 {
+    margin: 0 auto;
+    width: 50%;
 }
 
 #u90
@@ -42,7 +56,12 @@ left: -50%;
 	border-color: #000000;
 	margin-left: 30px;
 	position: relative;
+    text-align: center;
 	background-size: contain !important;
+}
+
+.imager {
+margin-bottom: 5%;
 }
 
 #u102-4
@@ -51,7 +70,8 @@ left: -50%;
 	display: block;
 	vertical-align: top;
 	margin-top: 41px;
-	position: relative;
+	text-align: center;
+    position: relative;
 }
 
 #u104-5
@@ -60,6 +80,7 @@ left: -50%;
 	display: block;
 	vertical-align: top;
 	margin-top: 30px;
+    text-align: center;
 	position: relative;
 }
 
@@ -68,6 +89,7 @@ left: -50%;
 	z-index: 12;
 	display: block;
 	vertical-align: top;
+    text-align: center;
 	position: relative;
 }
 
