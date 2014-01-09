@@ -12,7 +12,7 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-
+/* addit */
 #page #u156 {
     margin: 5% auto;
     width: 50%;
@@ -38,6 +38,10 @@
     width: 50%;
 }
 
+#u183 div {
+margin-right: 10px;
+}
+/* next */
 #u90
 {
 z-index: 2;
@@ -123,8 +127,7 @@ margin-bottom: 5%;
 {
 	z-index: 18;
 	width: 161px;
-	margin-left: 149px;
-	margin-top: 37px;
+	margin: 50px auto;
 	position: relative;
 }
 
