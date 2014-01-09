@@ -19,16 +19,21 @@
 }
 
 #page #u102-4 {
-    margin: -35px auto 50px;
+    margin: -10px auto 50px;
     width: 50%;
 }
 
 #page #u104-5 {
-    margin: 0 auto;
+    margin: 0 auto 3px;
     width: 50%;
 }
 
 #page #u105-5 {
+    margin: 0 auto;
+    width: 50%;
+}
+
+#page #u183-1 {
     margin: 0 auto;
     width: 50%;
 }
@@ -72,6 +77,11 @@ margin-bottom: 5%;
 	margin-top: 41px;
 	text-align: center;
     position: relative;
+    line-height: 26px;
+	font-size: 22px;
+	color: #FFFFFF;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
 }
 
 #u104-5
@@ -82,6 +92,11 @@ margin-bottom: 5%;
 	margin-top: 30px;
     text-align: center;
 	position: relative;
+    line-height: 25px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
 }
 
 #u105-5
@@ -91,6 +106,17 @@ margin-bottom: 5%;
 	vertical-align: top;
     text-align: center;
 	position: relative;
+    line-height: 25px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u104-2,#u105-2
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
 }
 
 #u183
